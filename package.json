@@ -1,5 +1,6 @@
 {
-  "name": "coronavirus-help",
+  "name": "covid19-confinement",
+  "homepage": "https://m-maillot.github.io/covid19-confinement",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
